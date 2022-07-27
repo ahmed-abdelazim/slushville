@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 185" width="1920" height="185">
+	<title>Mask Group 3-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h1920v869h-1920z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #2a0f3f } 
+	</style>
+	<g id="Clip-Path: Mask_Group_3" clip-path="url(#cp1)">
+		<g id="Mask_Group_3">
+			<path id="Path_305" class="s0" d="m0.1 54.7c0 0 515.7-122.2 982.5-0.7 466.7 121.6 937.4 0 937.4 0v809.8c0 0-1874.2 13.8-1919.9-1.6-0.2-0.1 0.1 0.1 0 0-4.3-16.1 0-807.5 0-807.5z"/>
+		</g>
+	</g>
+</svg>
